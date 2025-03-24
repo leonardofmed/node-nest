@@ -96,3 +96,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Class Validator
+
+`npm i class-validator class-transformer`
+
+Add several types of verifications for classes or types. Must use built-in @Decorators. Check `create-team-member-body.ts` file for example. Automatically handles errors for verification failed conditions.
+
+
